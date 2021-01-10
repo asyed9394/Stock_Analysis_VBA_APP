@@ -20,10 +20,11 @@ Use VBA to automate the stock analysis. The analysis requirements are:
       2. Clear Worksheet: Clear the content of current worksheet "All Stock analysis"
   3. Allow user to input the sheet name where data is available. So that user can run for any period of stock data.
   4. Optimzed the code to run for a large number of data set. 
-  5. The output contains following information:
+  5. The output contains following information: (see [Data Defintions] ) 
       1. Tikcer 
+      2. Total Daily Volumn
+      3. Return 
  
-
 The code should be using the original code but refactor it to optimze the run time, make it easy to ready the code etc.
 
 
