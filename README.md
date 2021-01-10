@@ -34,6 +34,7 @@ Use VBA to automate the stock analysis. The analysis requirements are:
   2. The run time for 2017 was 0.9414063 sec:
   
   ![Run time for 2017 totals before code refactoring](Resources/Before_Refactoring_2017_All_Stock_Analysis.png)
+  
   3. The run time for 2018 was 0.9101563 sec. 
   
   ![Run time for 2018 totals before code refactoring](Resources/Before_Refactoring_2018_All_Stock_Analysis.png)
