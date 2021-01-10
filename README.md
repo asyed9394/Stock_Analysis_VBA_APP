@@ -20,13 +20,26 @@ Use VBA to automate the stock analysis. The analysis requirements are:
       1. Run Analysis for all stocks: This button writes the output of stock analysis (Ticket, Total Daily Volumn, and Return) to All stock analysis andbeformat it.
       2. Clear Worksheet: Clear the content of current worksheet "All Stock analysis"
   3. Allow user to input the sheet name where data is available. So that user can run for any period of stock data.
-  4. Optimzed the code to run for a large number of data set. 
-  5. The output contains following information: (see [Data Defintions](https://github.com/asyed9394/UofTSCS_DA_BC_2020_21_Stock_Analysis/blob/main/README.md#data-defintions) ) 
+  4. The output contains following information: (see [Data Defintions](https://github.com/asyed9394/UofTSCS_DA_BC_2020_21_Stock_Analysis/blob/main/README.md#data-defintions) ) 
       1. Tikcer 
       2. Total Daily Volumn
       3. Return 
+  5. Optimzed the code to run for a large number of data set.  
+  
+## Results
+
+### version 1.0
+
+  1. First version of the VBA code build during the module 2 learning. The code acheived all requirements provided in the [Purpose]((https://github.com/asyed9394/UofTSCS_DA_BC_2020_21_Stock_Analysis/blob/main/Purpose] on samll data set provided in the Energy stock data from 2017 and 2018.
+  2. The run time for 2017 was 0.890625 sec
+    [Run time for 2017 totals before code refactoring]
+    ((Resources/Before_Refactoring_2017_All_Stock_Analysis.png))
+  3. The run time for 2018 was 0.9453125 sec
+    [Run time for 2018 totals before code refactoring]
+    (Resources/Before_Refactoring_2018_All_Stock_Analysis.png))
+    
  
-The code should be using the original code but refactor it to optimze the run time, make it easy to ready the code etc.
+
 
 
 
