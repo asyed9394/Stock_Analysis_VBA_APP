@@ -30,7 +30,7 @@ Use VBA to automate the stock analysis. The analysis requirements are:
 
 ### VBA Code Version 1.0 Before refactoring:
 
-Link to the version 1.0 of the code: [Version 1.0 before refactoring](Resources/VBA_Challenge_Before_Refactored.vbs)
+Link to the version 1.0 of the code: [Stock Analaysis VBA Code Version 1.0 before refactoring](Resources/VBA_Challenge_Before_Refactored.vbs)
 
   1. First version of the VBA code build during the module 2 learning. The code acheived all requirements provided in the [Purpose]((https://github.com/asyed9394/UofTSCS_DA_BC_2020_21_Stock_Analysis/blob/main/Purpose] on samll data set provided in the Energy stock data from 2017 and 2018.
   2. The run time for 2017 was 0.9414063 sec:
@@ -41,9 +41,19 @@ Link to the version 1.0 of the code: [Version 1.0 before refactoring](Resources/
   
   ![Run time for 2018 totals before code refactoring](Resources/Before_Refactoring_2018_All_Stock_Analysis.png)
     
- 
+### VBA Code Version 2.0 Aefore refactoring:
 
+Link to the version 2.0 of the code: [Stock Analaysis VBA Code Version 2.0 after refactoring](Resources/VBA_Challenge_Refactored_Script.vbs)
 
+  1. First version of the VBA code build during the module 2 learning. The code acheived all requirements provided in the [Purpose]((https://github.com/asyed9394/UofTSCS_DA_BC_2020_21_Stock_Analysis/blob/main/Purpose] on samll data set provided in the Energy stock data from 2017 and 2018. It also included refactoring to increase the run time and optimized for larger data set.
+  
+  2. The run time for 2017 was 0.7109375 sec:
+  
+  ![Run time for 2017 totals after code refactoring](Resources/VBA_Challenge_2017.png)
+  
+  3. The run time for 2018 was 0.7734375 sec. 
+  
+  ![Run time for 2018 totals after code refactoring](Resources/VBA_Challenge_2018.png)
 
 
 
