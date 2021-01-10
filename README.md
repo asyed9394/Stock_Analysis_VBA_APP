@@ -32,12 +32,10 @@ Use VBA to automate the stock analysis. The analysis requirements are:
 
   1. First version of the VBA code build during the module 2 learning. The code acheived all requirements provided in the [Purpose]((https://github.com/asyed9394/UofTSCS_DA_BC_2020_21_Stock_Analysis/blob/main/Purpose] on samll data set provided in the Energy stock data from 2017 and 2018.
   2. The run time for 2017 was 0.890625 sec.
-  
-    [Run time for 2017 totals before code refactoring]
+    ![Run time for 2017 totals before code refactoring]
     (Resources/Before_Refactoring_2017_All_Stock_Analysis.png)
-  3. The run time for 2018 was 0.9453125 sec.
-  
-    [Run time for 2018 totals before code refactoring]
+  3. The run time for 2018 was 0.9453125 sec. 
+    ![Run time for 2018 totals before code refactoring]
     (Resources/Before_Refactoring_2018_All_Stock_Analysis.png)
     
  
