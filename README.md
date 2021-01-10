@@ -8,8 +8,8 @@ The stcok's perormance is evaluated using 2 metrics.
   1. Total Daily Volumns = Total stocks traded in a year
   2. Return = Stock price changes over a year. (Closing price at the end of the year / closing price at the start of year) -1 
 #### Data Defintions
-       
-       ![Data definitions](Resources/VBA_Challenge_Data_Definitions.png)
+
+![Data definitions](Resources/VBA_Challenge_Data_Definitions.png)
        
        
 ### Purpose
