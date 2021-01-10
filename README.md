@@ -9,6 +9,9 @@ The stcok's perormance is evaluated using 2 metrics.
   2. Return = Stock price changes over a year. (Closing price at the end of the year / closing price at the start of year) -1 
 #### Data Defintions
        
+       ![Data definitions](Resources/VBA_Challenge_Data_Definitions.png)
+       
+       
 ### Purpose
 Use VBA to automate the stock analysis. The analysis requirements are:
   1. Provide output in a new sheet named "All Stock Analysis"
