@@ -3,8 +3,7 @@
 ## Overview of Project:
 ### Background:
 Analyze stocks data in order to make decision about future investmenst. The data received is the green energy stock data from 2017 and 2018.
-The porject uses VBA to automate stock analysis. The dataset used in this analysis can be downloaded from 
-[Green Energy stock data](https://2u-data-curriculum- team.s3.amazonaws.com/dataviz-online/module_2/green_stocks.xlsx)
+The porject uses VBA to automate stock analysis. The dataset used in this analysis can be downloaded from [Green Energy stock data](https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-online/module_2/green_stocks.xlsx)
 The stcok's perormance is evaluated using 2 metrics.
    1. Total Daily Volumns = Total stocks traded in a year
    2. Return = Stock price changes over a year. (Closing price at the end of the year / closing price at the start of year) -1 
