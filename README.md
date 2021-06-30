@@ -71,7 +71,7 @@ These types of refactoring depend on underlying architecture and optimal use of 
  While I don't have any specific disadvatnage for refactoring, overall I noticed following things about the solution that should be taken into account.
  
   1. The code assumes that data is already sorted on the Ticker and date columns, so the logic to pick starting price and ending price can work properly. If data is not sorted then the code will give us wrong output.
-  2. The code also assume the data comes in input format sepecified as in [Data Defintions](https://github.com/asyed9394/UofTSCS_DA_BC_2020_21_Stock_Analysis/blob/main/README.md#data-defintions) . If the code doesn't meet these specific requirements then output will not be accurate.
+  2. The code also assume the data comes in input format sepecified as in [Data Defintions](https://github.com/asyed9394/UofTSCS_DA_BC_2020_21_Stock_Analysis/blob/main/README.md#data-defintions) . If the data doesn't meet these specific requirements then either output will not be accurate or code will break.
   3. The input box doesn't work if user change their mind and Click on the cancel. This happend becuase code deosn't account for this user input behavior and end up with an error rather than exiting the process.
  
  
