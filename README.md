@@ -1,4 +1,4 @@
-#Visual Basic for Applications - Analyze Stock Data
+# Visual Basic for Applications - Analyze Stock Data
 
 ## Overview of Project:
 ### Background:
